@@ -1,6 +1,6 @@
 /*********
   J Robert Bedul 
-  ada maalah roro 
+  ada masalah roro
 *********/
 
 #include <ESP8266WiFi.h>
